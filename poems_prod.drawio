@@ -1,1 +1,133 @@
-<mxfile host="app.diagrams.net" modified="2020-11-30T12:12:00.620Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" version="13.10.4" etag="Z-BMi1DuNiucOYT54Odv" type="github"><diagram id="wv3CKyiRIyC83f-S4AsD">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-30T12:14:01.537Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="Rx8JweJUriUaJY9Rm6u9" version="13.10.4" type="github">
+  <diagram id="wv3CKyiRIyC83f-S4AsD" name="Page-1">
+    <mxGraphModel dx="1182" dy="1901" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tfwbzIui4DsDLy7v6CpH-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="100" y="250" width="121" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="tfwbzIui4DsDLy7v6CpH-2" value="" style="group" vertex="1" connectable="0" parent="tfwbzIui4DsDLy7v6CpH-1">
+          <mxGeometry x="27" y="25" width="94" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="tfwbzIui4DsDLy7v6CpH-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="tfwbzIui4DsDLy7v6CpH-2">
+          <mxGeometry x="-26" y="-37" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="tfwbzIui4DsDLy7v6CpH-4" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/vista_client.svg;" vertex="1" parent="tfwbzIui4DsDLy7v6CpH-2">
+          <mxGeometry width="38" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tfwbzIui4DsDLy7v6CpH-5" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/vista_client.svg;" vertex="1" parent="tfwbzIui4DsDLy7v6CpH-2">
+          <mxGeometry x="15" y="15" width="38" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tfwbzIui4DsDLy7v6CpH-6" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/vista_client.svg;" vertex="1" parent="tfwbzIui4DsDLy7v6CpH-2">
+          <mxGeometry x="30" y="30" width="38" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tfwbzIui4DsDLy7v6CpH-7" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/users.svg;" vertex="1" parent="tfwbzIui4DsDLy7v6CpH-2">
+          <mxGeometry x="-18" y="43" width="33" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tfwbzIui4DsDLy7v6CpH-8" value="Dev Team Client Working Stations" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tfwbzIui4DsDLy7v6CpH-1">
+          <mxGeometry width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tfwbzIui4DsDLy7v6CpH-9" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/databases.svg;" vertex="1" parent="1">
+          <mxGeometry x="400" y="120.6" width="80" height="78.4" as="geometry" />
+        </mxCell>
+        <mxCell id="tfwbzIui4DsDLy7v6CpH-10" value="Git Repository on&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="355" y="70" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tfwbzIui4DsDLy7v6CpH-11" value="&lt;div style=&quot;box-sizing: border-box ; font-family: &amp;quot;segoe ui&amp;quot; , , &amp;quot;apple color emoji&amp;quot; , &amp;quot;segoe ui emoji&amp;quot; , sans-serif ; font-size: 14px&quot;&gt;&lt;a href=&quot;http://mkapp004:4800/Bonobo.Git.Server/Repository/&quot; title=&quot;http://mkapp004:4800/bonobo.git.server/repository/&quot;&gt;http://tfsclalit:8080/tfs/devDept/BI/_git&lt;/a&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="100" width="366" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="tfwbzIui4DsDLy7v6CpH-12" value="" style="endArrow=classic;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="tfwbzIui4DsDLy7v6CpH-8" target="tfwbzIui4DsDLy7v6CpH-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="360" as="sourcePoint" />
+            <mxPoint x="460" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tfwbzIui4DsDLy7v6CpH-13" value="Current Version upload" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-30;" vertex="1" parent="1">
+          <mxGeometry x="260" y="179" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tfwbzIui4DsDLy7v6CpH-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tfwbzIui4DsDLy7v6CpH-13" target="tfwbzIui4DsDLy7v6CpH-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tfwbzIui4DsDLy7v6CpH-15" value="" style="endArrow=classic;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="tfwbzIui4DsDLy7v6CpH-9" target="tfwbzIui4DsDLy7v6CpH-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="350" as="sourcePoint" />
+            <mxPoint x="440" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tfwbzIui4DsDLy7v6CpH-16" value="Current Version download" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-30;" vertex="1" parent="1">
+          <mxGeometry x="280" y="240" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tfwbzIui4DsDLy7v6CpH-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tfwbzIui4DsDLy7v6CpH-18" target="tfwbzIui4DsDLy7v6CpH-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tfwbzIui4DsDLy7v6CpH-18" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="410" y="390" width="60" height="107.14" as="geometry" />
+        </mxCell>
+        <mxCell id="tfwbzIui4DsDLy7v6CpH-19" value="APP Server - IIS&lt;br&gt;MKAPPT120" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="359" y="370" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tfwbzIui4DsDLy7v6CpH-20" value="SITE:POEMS&lt;br&gt;app:POEMS:Client site&lt;br&gt;app: WEB_API" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="351" y="506.14" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tfwbzIui4DsDLy7v6CpH-21" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="100" y="510" width="121" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="tfwbzIui4DsDLy7v6CpH-22" value="" style="group" vertex="1" connectable="0" parent="tfwbzIui4DsDLy7v6CpH-21">
+          <mxGeometry x="27" y="25" width="94" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="tfwbzIui4DsDLy7v6CpH-23" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="tfwbzIui4DsDLy7v6CpH-22">
+          <mxGeometry x="-26" y="-37" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="tfwbzIui4DsDLy7v6CpH-24" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/vista_client.svg;" vertex="1" parent="tfwbzIui4DsDLy7v6CpH-22">
+          <mxGeometry width="38" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tfwbzIui4DsDLy7v6CpH-25" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/vista_client.svg;" vertex="1" parent="tfwbzIui4DsDLy7v6CpH-22">
+          <mxGeometry x="15" y="15" width="38" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tfwbzIui4DsDLy7v6CpH-26" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/vista_client.svg;" vertex="1" parent="tfwbzIui4DsDLy7v6CpH-22">
+          <mxGeometry x="30" y="30" width="38" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tfwbzIui4DsDLy7v6CpH-27" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/users.svg;" vertex="1" parent="tfwbzIui4DsDLy7v6CpH-22">
+          <mxGeometry x="-18" y="43" width="33" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tfwbzIui4DsDLy7v6CpH-28" value="DEV Users for testing" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tfwbzIui4DsDLy7v6CpH-21">
+          <mxGeometry width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tfwbzIui4DsDLy7v6CpH-29" value="" style="endArrow=classic;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="tfwbzIui4DsDLy7v6CpH-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="340" as="sourcePoint" />
+            <mxPoint x="410" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tfwbzIui4DsDLy7v6CpH-30" value="" style="endArrow=classic;html=1;entryX=1.017;entryY=0.685;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="tfwbzIui4DsDLy7v6CpH-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="520" as="sourcePoint" />
+            <mxPoint x="440" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tfwbzIui4DsDLy7v6CpH-31" value="" style="endArrow=classic;html=1;" edge="1" parent="1" source="tfwbzIui4DsDLy7v6CpH-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="340" as="sourcePoint" />
+            <mxPoint x="440" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tfwbzIui4DsDLy7v6CpH-32" value="Git Clone for POEMS Repository on TEST Server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="357" y="250" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tfwbzIui4DsDLy7v6CpH-33" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/databases.svg;" vertex="1" parent="1">
+          <mxGeometry x="610" y="407.14" width="91.84" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="tfwbzIui4DsDLy7v6CpH-34" value="Data Server&lt;br&gt;SWTMKBI-SQL01\INSTANCE01" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="564" y="380" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tfwbzIui4DsDLy7v6CpH-35" value="DB:&lt;br&gt;BI_POEMS&lt;br&gt;BI_POEMS_DEV&lt;br&gt;BI_PRO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570.92" y="506.14" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tfwbzIui4DsDLy7v6CpH-36" value="POEMS: Production Layer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=33;" vertex="1" parent="1">
+          <mxGeometry x="310" y="20" width="270" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
