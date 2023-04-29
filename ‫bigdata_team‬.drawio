@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-29T03:24:00.984Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="iZhr3toFtSBVPLWLFMSS" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-29T03:43:19.374Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="fNPhiBnjyKIdXUru9nRh" version="21.0.6" type="github">
   <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -10,11 +10,11 @@
         <mxCell id="3" value="מנהל פרויקט \ פעילות&#xa;" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="662" y="345.5" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7" value="מנהל פיתוח&#xa;איתי ברן" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1216" y="454.5" width="200" height="60" as="geometry" />
+        <mxCell id="7" value="מנהל פיתוח&#xa;איתי ברן" style="rounded=1;fillColor=#97D077;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="820" y="450" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8" value="  תשתיות וארכיטקטורה&#xa;יוליה פלדמן" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="359" y="580" width="200" height="60" as="geometry" />
+          <mxGeometry x="359" y="581" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9" value="DEVOPS&#xa;אנדריי טס" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="129" y="730" width="200" height="60" as="geometry" />
@@ -52,12 +52,12 @@
             <mxPoint x="122" y="165.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="33" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;dashed=1;strokeColor=#23445D;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="3" target="7" edge="1">
+        <mxCell id="33" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;dashed=1;strokeColor=#CCCCCC;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="3" target="7" edge="1">
           <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
             <mxPoint x="22" y="265.5" as="sourcePoint" />
             <mxPoint x="122" y="165.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1140" y="370" />
+              <mxPoint x="920" y="376" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -131,11 +131,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rTIktwFIz4IESTL18eKh-55" value="הגנת מידע" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="130" y="453.5" width="200" height="60" as="geometry" />
+        <mxCell id="rTIktwFIz4IESTL18eKh-55" value="הגנת מידע" style="rounded=1;fillColor=#17A9E8;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="380" y="450" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rTIktwFIz4IESTL18eKh-56" value="ארכיטקטורה" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="353" y="453.5" width="200" height="60" as="geometry" />
+        <mxCell id="rTIktwFIz4IESTL18eKh-56" value="ארכיטקטורה" style="rounded=1;fillColor=#17A9E8;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="159" y="450" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rTIktwFIz4IESTL18eKh-57" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;dashed=1;strokeColor=#23445D;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="3" target="rTIktwFIz4IESTL18eKh-56" edge="1">
           <mxGeometry x="-710" y="219.5" width="100" height="100" as="geometry">
@@ -149,23 +149,22 @@
         <mxCell id="rTIktwFIz4IESTL18eKh-58" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;dashed=1;strokeColor=#23445D;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="rTIktwFIz4IESTL18eKh-55" edge="1">
           <mxGeometry x="-700" y="229.5" width="100" height="100" as="geometry">
             <mxPoint x="660" y="370" as="sourcePoint" />
-            <mxPoint x="510" y="466" as="targetPoint" />
+            <mxPoint x="290" y="440" as="targetPoint" />
             <Array as="points">
               <mxPoint x="580" y="370" />
               <mxPoint x="590" y="380" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rTIktwFIz4IESTL18eKh-60" value="סיסטם" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="994" y="455.5" width="200" height="60" as="geometry" />
+        <mxCell id="rTIktwFIz4IESTL18eKh-60" value="סיסטם" style="rounded=1;fillColor=#17A9E8;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="1082" y="450" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rTIktwFIz4IESTL18eKh-61" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;dashed=1;strokeColor=#23445D;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="3" target="rTIktwFIz4IESTL18eKh-60" edge="1">
-          <mxGeometry x="32" y="175.5" width="100" height="100" as="geometry">
-            <mxPoint x="892" y="386" as="sourcePoint" />
-            <mxPoint x="1382" y="466" as="targetPoint" />
+        <mxCell id="rTIktwFIz4IESTL18eKh-61" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;dashed=1;strokeColor=#23445D;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry x="32" y="171.5" width="100" height="100" as="geometry">
+            <mxPoint x="882" y="371.5" as="sourcePoint" />
+            <mxPoint x="1182" y="450" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="920" y="370" />
-              <mxPoint x="1150" y="380" />
+              <mxPoint x="1150" y="376" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -214,6 +213,39 @@
               <mxPoint x="860" y="540" />
               <mxPoint x="610" y="650" />
               <mxPoint x="662" y="565.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HRantwCqe_uufsJNFs8z-66" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;dashed=1;strokeColor=#CCCCCC;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7" target="13">
+          <mxGeometry x="32" y="395.5" width="100" height="100" as="geometry">
+            <mxPoint x="882" y="595.5" as="sourcePoint" />
+            <mxPoint x="1100" y="550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="950" y="614" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HRantwCqe_uufsJNFs8z-67" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;dashed=1;strokeColor=#CCCCCC;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7">
+          <mxGeometry x="-78" y="440.5" width="100" height="100" as="geometry">
+            <mxPoint x="920" y="503" as="sourcePoint" />
+            <mxPoint x="559" y="613" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="820" y="613" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HRantwCqe_uufsJNFs8z-68" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;dashed=1;strokeColor=#CCCCCC;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="7" target="20">
+          <mxGeometry x="42" y="405.5" width="100" height="100" as="geometry">
+            <mxPoint x="920" y="510" as="sourcePoint" />
+            <mxPoint x="987" y="624" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="790" y="750" />
+              <mxPoint x="770" y="580" />
+              <mxPoint x="790" y="590" />
+              <mxPoint x="790" y="680" />
+              <mxPoint x="790" y="700" />
+              <mxPoint x="820" y="810" />
+              <mxPoint x="960" y="624" />
             </Array>
           </mxGeometry>
         </mxCell>
