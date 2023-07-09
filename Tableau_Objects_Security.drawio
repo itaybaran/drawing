@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-09T13:45:01.394Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="7Gdqjz3rbvGYYS0JqRNn" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-09T14:15:31.644Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="vRtUu3P7QwNpW2dw1ik5" version="21.5.2" type="github">
   <diagram name="‫עמוד-1‬" id="z9KWtGvP0ykJApAYb3_E">
     <mxGraphModel dx="1194" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -46,7 +46,7 @@
         <mxCell id="wkpVl2k1Z7q7xohtnV9i-8" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="wkpVl2k1Z7q7xohtnV9i-7" vertex="1">
           <mxGeometry width="220" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="wkpVl2k1Z7q7xohtnV9i-9" value="Models = 1+ Univ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="wkpVl2k1Z7q7xohtnV9i-7" vertex="1">
+        <mxCell id="wkpVl2k1Z7q7xohtnV9i-9" value="Kvetch= 1+ Univ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="wkpVl2k1Z7q7xohtnV9i-7" vertex="1">
           <mxGeometry x="30" y="10" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wkpVl2k1Z7q7xohtnV9i-24" value="SHR" style="rounded=1;whiteSpace=wrap;html=1;" parent="wkpVl2k1Z7q7xohtnV9i-7" vertex="1">
