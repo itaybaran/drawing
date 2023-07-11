@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-11T05:56:53.164Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="L-Ppa1Ow1P725d4FvgTD" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-11T05:59:07.156Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Mb7P_B_JH9RJW8Ru9hlI" version="21.2.1" type="github">
   <diagram name="‫עמוד-1‬" id="i2Fc2xm11VRdaYwxFgzn">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -116,28 +116,28 @@
         <mxCell id="d246zdA38Hne-XJqFqv3-30" value="Job Collection4" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="d246zdA38Hne-XJqFqv3-15">
           <mxGeometry x="25" y="215" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="d246zdA38Hne-XJqFqv3-31" value="Job Collection1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="d246zdA38Hne-XJqFqv3-15">
+        <mxCell id="d246zdA38Hne-XJqFqv3-31" value="Job Collection5" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="d246zdA38Hne-XJqFqv3-15">
           <mxGeometry x="145" y="73" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="d246zdA38Hne-XJqFqv3-32" value="Job Collection2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="d246zdA38Hne-XJqFqv3-15">
+        <mxCell id="d246zdA38Hne-XJqFqv3-32" value="Job Collection6" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="d246zdA38Hne-XJqFqv3-15">
           <mxGeometry x="145" y="119" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="d246zdA38Hne-XJqFqv3-33" value="Job Collection3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="d246zdA38Hne-XJqFqv3-15">
+        <mxCell id="d246zdA38Hne-XJqFqv3-33" value="Job Collection7" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="d246zdA38Hne-XJqFqv3-15">
           <mxGeometry x="145" y="167" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="d246zdA38Hne-XJqFqv3-34" value="Job Collection4" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="d246zdA38Hne-XJqFqv3-15">
+        <mxCell id="d246zdA38Hne-XJqFqv3-34" value="Job Collection8" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="d246zdA38Hne-XJqFqv3-15">
           <mxGeometry x="145" y="215" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="d246zdA38Hne-XJqFqv3-35" value="Job Collection1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="d246zdA38Hne-XJqFqv3-15">
+        <mxCell id="d246zdA38Hne-XJqFqv3-35" value="Job Collection9" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="d246zdA38Hne-XJqFqv3-15">
           <mxGeometry x="266.5" y="73" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="d246zdA38Hne-XJqFqv3-36" value="Job Collection2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="d246zdA38Hne-XJqFqv3-15">
+        <mxCell id="d246zdA38Hne-XJqFqv3-36" value="Job Collection10" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="d246zdA38Hne-XJqFqv3-15">
           <mxGeometry x="266.5" y="119" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="d246zdA38Hne-XJqFqv3-37" value="Job Collection3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="d246zdA38Hne-XJqFqv3-15">
+        <mxCell id="d246zdA38Hne-XJqFqv3-37" value="Job Collection11" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="d246zdA38Hne-XJqFqv3-15">
           <mxGeometry x="266.5" y="167" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="d246zdA38Hne-XJqFqv3-38" value="Job Collection4" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="d246zdA38Hne-XJqFqv3-15">
+        <mxCell id="d246zdA38Hne-XJqFqv3-38" value="Job Collection12" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="d246zdA38Hne-XJqFqv3-15">
           <mxGeometry x="266.5" y="215" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="d246zdA38Hne-XJqFqv3-17" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -167,29 +167,29 @@
         <mxCell id="d246zdA38Hne-XJqFqv3-42" value="Job Collection4" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="d246zdA38Hne-XJqFqv3-17">
           <mxGeometry x="25" y="217" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="d246zdA38Hne-XJqFqv3-43" value="Job Collection1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="d246zdA38Hne-XJqFqv3-17">
+        <mxCell id="d246zdA38Hne-XJqFqv3-51" value="Job Collection5" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="d246zdA38Hne-XJqFqv3-17">
           <mxGeometry x="145" y="75" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="d246zdA38Hne-XJqFqv3-44" value="Job Collection2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="d246zdA38Hne-XJqFqv3-17">
+        <mxCell id="d246zdA38Hne-XJqFqv3-52" value="Job Collection6" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="d246zdA38Hne-XJqFqv3-17">
           <mxGeometry x="145" y="121" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="d246zdA38Hne-XJqFqv3-45" value="Job Collection3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="d246zdA38Hne-XJqFqv3-17">
+        <mxCell id="d246zdA38Hne-XJqFqv3-53" value="Job Collection7" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="d246zdA38Hne-XJqFqv3-17">
           <mxGeometry x="145" y="169" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="d246zdA38Hne-XJqFqv3-46" value="Job Collection4" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="d246zdA38Hne-XJqFqv3-17">
+        <mxCell id="d246zdA38Hne-XJqFqv3-54" value="Job Collection8" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="d246zdA38Hne-XJqFqv3-17">
           <mxGeometry x="145" y="217" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="d246zdA38Hne-XJqFqv3-47" value="Job Collection1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="d246zdA38Hne-XJqFqv3-17">
-          <mxGeometry x="270" y="75" width="70" height="40" as="geometry" />
+        <mxCell id="d246zdA38Hne-XJqFqv3-55" value="Job Collection9" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="d246zdA38Hne-XJqFqv3-17">
+          <mxGeometry x="266.5" y="75" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="d246zdA38Hne-XJqFqv3-48" value="Job Collection2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="d246zdA38Hne-XJqFqv3-17">
-          <mxGeometry x="270" y="121" width="70" height="40" as="geometry" />
+        <mxCell id="d246zdA38Hne-XJqFqv3-56" value="Job Collection10" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="d246zdA38Hne-XJqFqv3-17">
+          <mxGeometry x="266.5" y="121" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="d246zdA38Hne-XJqFqv3-49" value="Job Collection3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="d246zdA38Hne-XJqFqv3-17">
-          <mxGeometry x="270" y="169" width="70" height="40" as="geometry" />
+        <mxCell id="d246zdA38Hne-XJqFqv3-57" value="Job Collection11" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="d246zdA38Hne-XJqFqv3-17">
+          <mxGeometry x="266.5" y="169" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="d246zdA38Hne-XJqFqv3-50" value="Job Collection4" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="d246zdA38Hne-XJqFqv3-17">
-          <mxGeometry x="270" y="217" width="70" height="40" as="geometry" />
+        <mxCell id="d246zdA38Hne-XJqFqv3-58" value="Job Collection12" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="d246zdA38Hne-XJqFqv3-17">
+          <mxGeometry x="266.5" y="217" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r5iFqAWKlbIohHAniu_M-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="r5iFqAWKlbIohHAniu_M-2" target="r5iFqAWKlbIohHAniu_M-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
