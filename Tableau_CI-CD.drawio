@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-27T09:35:48.088Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="e1L7r3A_TCe1OftQ7Eu4" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-27T09:42:03.330Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="vWyQzeUfKDxoJCcs_9cI" version="21.6.2" type="github">
   <diagram name="‫עמוד-1‬" id="i2Fc2xm11VRdaYwxFgzn">
     <mxGraphModel dx="1434" dy="1876" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -151,27 +151,6 @@
         <mxCell id="yuexsXdvfjhhzSVvDChW-17" value="GIT Commit" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="d246zdA38Hne-XJqFqv3-199">
           <mxGeometry x="132" y="156.25" width="81.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="d246zdA38Hne-XJqFqv3-287" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="300" y="-286" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="d246zdA38Hne-XJqFqv3-293" value="Git Pull request from Dev to Prod" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="1" vertex="1">
-          <mxGeometry x="205" y="-200" width="180" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="d246zdA38Hne-XJqFqv3-294" value="Git Push" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="1" vertex="1">
-          <mxGeometry x="194" y="-300" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="d246zdA38Hne-XJqFqv3-295" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="395" y="-190" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="d246zdA38Hne-XJqFqv3-303" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="436.5" y="-54" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="d246zdA38Hne-XJqFqv3-304" value="Git Push" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="1" vertex="1">
-          <mxGeometry x="243.5" y="-67" width="180" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="lU6CdYUgjC_pBxSl2gmc-3" value="Azure Pipeline&lt;br&gt;Build + Deploy + Import" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="1" vertex="1">
-          <mxGeometry x="270" y="420" width="160" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="d246zdA38Hne-XJqFqv3-269" value="GIT Push" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="311.25" y="790" width="76" height="20" as="geometry" />
         </mxCell>
@@ -206,7 +185,7 @@
           <mxGeometry x="1350.5" y="770.01" width="76" height="20" as="geometry" />
         </mxCell>
         <mxCell id="d246zdA38Hne-XJqFqv3-11" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;GIT Remote Repository&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;direction=south;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="490" y="-370" width="720" height="1030" as="geometry" />
+          <mxGeometry x="490" y="-370" width="710" height="1030" as="geometry" />
         </mxCell>
         <mxCell id="r5iFqAWKlbIohHAniu_M-5" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -341,7 +320,7 @@
           <mxGeometry x="680" y="189.99857142857144" width="520" height="190.82" as="geometry" />
         </mxCell>
         <mxCell id="yuexsXdvfjhhzSVvDChW-88" value="GIT Folder for Tableau_Objects Repository" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;" vertex="1" parent="yuexsXdvfjhhzSVvDChW-87">
-          <mxGeometry x="-150" width="670" height="190.82" as="geometry" />
+          <mxGeometry x="-158" width="670" height="190.82" as="geometry" />
         </mxCell>
         <mxCell id="yuexsXdvfjhhzSVvDChW-89" value="" style="group;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" connectable="0" parent="yuexsXdvfjhhzSVvDChW-87">
           <mxGeometry x="25" y="94.45408163265317" width="272" height="37.04081632653061" as="geometry" />
@@ -422,7 +401,7 @@
           <mxGeometry x="679" y="-34.00142857142856" width="520" height="190.82" as="geometry" />
         </mxCell>
         <mxCell id="yuexsXdvfjhhzSVvDChW-110" value="GIT Folder for Tableau_Objects Repository" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;" vertex="1" parent="yuexsXdvfjhhzSVvDChW-109">
-          <mxGeometry x="-150" width="670" height="190.82" as="geometry" />
+          <mxGeometry x="-158" width="670" height="190.82" as="geometry" />
         </mxCell>
         <mxCell id="yuexsXdvfjhhzSVvDChW-111" value="" style="group;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" connectable="0" parent="yuexsXdvfjhhzSVvDChW-109">
           <mxGeometry x="25" y="94.45408163265317" width="272" height="37.04081632653061" as="geometry" />
@@ -793,6 +772,42 @@
               <mxPoint x="1020" y="-150" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="lU6CdYUgjC_pBxSl2gmc-3" value="Azure Pipeline&lt;br&gt;Build + Deploy + Publish" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="1202" y="243" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yuexsXdvfjhhzSVvDChW-227" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;entryX=0.055;entryY=0.873;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1184" y="77" as="sourcePoint" />
+            <mxPoint x="1341.96" y="78.00846938775521" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1184" y="78" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yuexsXdvfjhhzSVvDChW-228" value="Azure Pipeline&lt;br&gt;Build + Deploy + Publish" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="1204" y="41" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yuexsXdvfjhhzSVvDChW-229" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;entryX=0.055;entryY=0.873;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1184.04" y="290" as="sourcePoint" />
+            <mxPoint x="1342" y="291.0084693877552" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1184.04" y="291" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yuexsXdvfjhhzSVvDChW-230" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;entryX=0.055;entryY=0.873;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1184" y="-134" as="sourcePoint" />
+            <mxPoint x="1341.96" y="-132.9915306122448" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1184" y="-133" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yuexsXdvfjhhzSVvDChW-231" value="Azure Pipeline&lt;br&gt;Build + Deploy + Publish" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="1204" y="-170" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
