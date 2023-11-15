@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-15T08:50:09.796Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="yzp8vhiFIpM8DO61kJfE" version="22.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-15T09:08:06.273Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="6CIBzwyb8_-Y1rB0MbeH" version="22.1.1" type="github">
   <diagram name="‫עמוד-1‬" id="z9KWtGvP0ykJApAYb3_E">
     <mxGraphModel dx="1395" dy="1482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -114,20 +114,23 @@
         <mxCell id="zhimW_uMHWvatuuAIKdU-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wkpVl2k1Z7q7xohtnV9i-20" target="zhimW_uMHWvatuuAIKdU-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zhimW_uMHWvatuuAIKdU-10" value="SQL Server - DWH" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="-260" width="180" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="zhimW_uMHWvatuuAIKdU-13" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="320" y="-230" width="180" height="180" as="geometry" />
+          <mxGeometry x="355" y="-260" width="230" height="230" as="geometry" />
         </mxCell>
         <mxCell id="zhimW_uMHWvatuuAIKdU-9" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="zhimW_uMHWvatuuAIKdU-13">
-          <mxGeometry width="180" height="180" as="geometry" />
+          <mxGeometry width="230" height="230" as="geometry" />
         </mxCell>
         <mxCell id="zhimW_uMHWvatuuAIKdU-11" value="Participation ID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zhimW_uMHWvatuuAIKdU-13">
-          <mxGeometry x="10" y="55" width="120" height="40" as="geometry" />
+          <mxGeometry x="45" y="99.99777777777777" width="120" height="51.11111111111111" as="geometry" />
         </mxCell>
         <mxCell id="zhimW_uMHWvatuuAIKdU-12" value="מצב אחרון" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#17A9E8;" vertex="1" parent="zhimW_uMHWvatuuAIKdU-13">
-          <mxGeometry x="20" y="110" width="120" height="50" as="geometry" />
+          <mxGeometry x="45" y="159.99555555555554" width="120" height="63.888888888888886" as="geometry" />
+        </mxCell>
+        <mxCell id="zhimW_uMHWvatuuAIKdU-10" value="SQL Server - DWH" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zhimW_uMHWvatuuAIKdU-13">
+          <mxGeometry x="15" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zhimW_uMHWvatuuAIKdU-25" value="Errors" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zhimW_uMHWvatuuAIKdU-13">
+          <mxGeometry x="45" y="39.99777777777777" width="120" height="51.11111111111111" as="geometry" />
         </mxCell>
         <mxCell id="zhimW_uMHWvatuuAIKdU-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wkpVl2k1Z7q7xohtnV9i-5" target="zhimW_uMHWvatuuAIKdU-9">
           <mxGeometry relative="1" as="geometry" />
