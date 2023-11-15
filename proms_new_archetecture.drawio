@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-15T08:49:38.726Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="DqyvkO5azLBWqN9Q7wlf" version="22.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-15T08:50:09.796Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="yzp8vhiFIpM8DO61kJfE" version="22.1.1" type="github">
   <diagram name="‫עמוד-1‬" id="z9KWtGvP0ykJApAYb3_E">
     <mxGraphModel dx="1395" dy="1482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -137,6 +137,12 @@
         </mxCell>
         <mxCell id="zhimW_uMHWvatuuAIKdU-16" value="KAFKA" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="730" y="130" width="60" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="zhimW_uMHWvatuuAIKdU-17" value="חרדה" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="200" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zhimW_uMHWvatuuAIKdU-18" value="מפרקים" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="220" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
