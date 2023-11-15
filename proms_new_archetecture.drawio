@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-15T08:10:49.410Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="Fq8JM5x94Vk57x5ucZj1" version="22.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-15T08:20:42.057Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="mmPzdjMd53xRqLQ4PvBI" version="22.1.1" type="github">
   <diagram name="‫עמוד-1‬" id="z9KWtGvP0ykJApAYb3_E">
     <mxGraphModel dx="1674" dy="1608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -107,15 +107,14 @@
         <mxCell id="mV6azeuSrDNRdWC2Sgcm-11" value="מפרקים" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="950" y="580" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="mV6azeuSrDNRdWC2Sgcm-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.05;exitY=0.34;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="wkpVl2k1Z7q7xohtnV9i-10" edge="1" target="mV6azeuSrDNRdWC2Sgcm-2">
+        <mxCell id="mV6azeuSrDNRdWC2Sgcm-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.05;exitY=0.34;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="wkpVl2k1Z7q7xohtnV9i-10" edge="1" target="mV6azeuSrDNRdWC2Sgcm-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="990" y="545" as="sourcePoint" />
             <mxPoint x="680" y="551" as="targetPoint" />
             <Array as="points">
               <mxPoint x="900" y="548" />
               <mxPoint x="900" y="525" />
-              <mxPoint x="680" y="525" />
-              <mxPoint x="680" y="610" />
+              <mxPoint x="610" y="525" />
             </Array>
           </mxGeometry>
         </mxCell>
