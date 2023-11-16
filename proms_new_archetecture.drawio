@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-16T07:26:41.693Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="HMf2NrK_FAs9TgQ3B8QW" version="22.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-16T07:30:43.236Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="7P25j3hpCwnQYILFamD6" version="22.1.1" type="github">
   <diagram name="‫עמוד-1‬" id="z9KWtGvP0ykJApAYb3_E">
     <mxGraphModel dx="1434" dy="1608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -27,11 +27,6 @@
         </mxCell>
         <mxCell id="wkpVl2k1Z7q7xohtnV9i-11" value="Integration" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="970" y="500" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="wkpVl2k1Z7q7xohtnV9i-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="wkpVl2k1Z7q7xohtnV9i-5" target="zhimW_uMHWvatuuAIKdU-16" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="690" y="220.00000000000023" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="mV6azeuSrDNRdWC2Sgcm-1" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="440" y="640" width="380" height="200" as="geometry" />
@@ -128,21 +123,35 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wkpVl2k1Z7q7xohtnV9i-20" value="ניטור" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="ZZgVcxSO3x-aKoJtG-Tx-11" vertex="1">
-          <mxGeometry x="106.91000000000003" y="93.5" width="64.09" height="34" as="geometry" />
+          <mxGeometry x="106.91000000000003" y="141.5" width="64.09" height="34" as="geometry" />
         </mxCell>
         <mxCell id="wkpVl2k1Z7q7xohtnV9i-21" value="עדכון חזרה ל DWH" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="ZZgVcxSO3x-aKoJtG-Tx-11" vertex="1">
-          <mxGeometry x="14.409999999999968" y="94.5" width="63.18" height="32" as="geometry" />
+          <mxGeometry x="14.409999999999968" y="142.5" width="63.18" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="ZZgVcxSO3x-aKoJtG-Tx-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="ZZgVcxSO3x-aKoJtG-Tx-11" source="wkpVl2k1Z7q7xohtnV9i-19" target="wkpVl2k1Z7q7xohtnV9i-20">
+        <mxCell id="ZZgVcxSO3x-aKoJtG-Tx-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="ZZgVcxSO3x-aKoJtG-Tx-11" source="wkpVl2k1Z7q7xohtnV9i-19" target="ZZgVcxSO3x-aKoJtG-Tx-14">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="91" y="118" as="sourcePoint" />
             <mxPoint x="111" y="118" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="136" y="80" />
+              <mxPoint x="96" y="80" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ZZgVcxSO3x-aKoJtG-Tx-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="ZZgVcxSO3x-aKoJtG-Tx-11" source="wkpVl2k1Z7q7xohtnV9i-20" target="wkpVl2k1Z7q7xohtnV9i-21">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="91" y="142" as="sourcePoint" />
             <mxPoint x="111" y="142" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZZgVcxSO3x-aKoJtG-Tx-14" value="שליחה ל Kafka" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="ZZgVcxSO3x-aKoJtG-Tx-11">
+          <mxGeometry x="62.95" y="100" width="64.09" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZgVcxSO3x-aKoJtG-Tx-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#000000;" edge="1" parent="ZZgVcxSO3x-aKoJtG-Tx-11" source="ZZgVcxSO3x-aKoJtG-Tx-14" target="wkpVl2k1Z7q7xohtnV9i-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="139" y="107" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="KfTV7CoLvWZbIG9vcyTQ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;entryX=0.531;entryY=1.013;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="wkpVl2k1Z7q7xohtnV9i-21" target="zhimW_uMHWvatuuAIKdU-9" edge="1">
@@ -171,6 +180,11 @@
         </mxCell>
         <mxCell id="ZZgVcxSO3x-aKoJtG-Tx-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="wkpVl2k1Z7q7xohtnV9i-14" target="wkpVl2k1Z7q7xohtnV9i-18">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wkpVl2k1Z7q7xohtnV9i-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="ZZgVcxSO3x-aKoJtG-Tx-14" target="zhimW_uMHWvatuuAIKdU-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="220.00000000000023" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
