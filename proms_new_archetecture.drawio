@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-22T08:53:51.869Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="PssG9WWY3UqbaumrKsc3" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-22T08:54:52.604Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="NAp_Pku2Qpsh7c-M1cDr" version="22.1.3" type="github">
   <diagram name="‫עמוד-1‬" id="z9KWtGvP0ykJApAYb3_E">
     <mxGraphModel dx="1434" dy="1608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -92,7 +92,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zhimW_uMHWvatuuAIKdU-2" value="&lt;font color=&quot;#66b2ff&quot;&gt;&lt;b&gt;ELK Logs index&lt;/b&gt;&lt;/font&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.elastic_load_balancing;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="60.01" y="597" width="126.5" height="113" as="geometry" />
+          <mxGeometry x="82.00999999999999" y="597" width="126.5" height="113" as="geometry" />
         </mxCell>
         <mxCell id="zhimW_uMHWvatuuAIKdU-16" value="KAFKA" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=-90;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="730" y="130" width="60" height="180" as="geometry" />
