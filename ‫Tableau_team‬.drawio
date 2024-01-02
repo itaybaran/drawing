@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-01-02T09:00:04.367Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="K3MsEYPM7FsjpqxIAMvb" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-02T09:34:28.313Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="z-dEXhfTLjhzgqsOsORV" version="22.1.16" type="github">
   <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="1194" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="14sCDKMBMeuCPlmQCyw3-66" value="כלל המנתחים" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="410" y="850" width="200" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="2" value="מנהל מחלקת דאטה&#xa;ניר שחר" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="672" y="205.5" width="200" height="60" as="geometry" />
         </mxCell>
@@ -13,26 +16,17 @@
         <mxCell id="7" value="מנהל פיתוח&#xa;איתי ברן" style="rounded=1;fillColor=#97D077;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="840" y="450" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9" value="אדמיניסטרטור&#xa;אנדריי טס" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="420" y="727" width="200" height="60" as="geometry" />
+        <mxCell id="9" value="צוותי מנתחי אנליטיקה&#xa;אלה \ רקפת \ מיטל" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="410" y="745" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="13" value="פיתוח&#xa;אירינה קרסיק" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="13" value="  פיתוח אחורי&#xa;אירינה קרסיק" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="955" y="750" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="14" value="DE &#xa;אלישבע לוי" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1100" y="895" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="15" value="DE&#xa;יפעת אזולאי" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1100" y="985" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="19" value="DE&#xa;נועם מימון" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="860" y="890" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="20" value="DE&#xa;שי כהן" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="860" y="995" width="200" height="60" as="geometry" />
+        <mxCell id="19" value="נופרה זיאדה" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="955" y="849.5" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="23" value="ארכיטקטורה&#xa;אנדריי טס" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="650" y="727" width="200" height="60" as="geometry" />
+          <mxGeometry x="650" y="745" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="29" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;" parent="1" source="2" target="3" edge="1">
           <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
@@ -45,7 +39,7 @@
             <mxPoint x="1078" y="796.5" as="sourcePoint" />
             <mxPoint x="1058" y="1006" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="888" y="856" />
+              <mxPoint x="1050" y="850" />
               <mxPoint x="1088" y="836.5" />
             </Array>
           </mxGeometry>
@@ -57,28 +51,6 @@
             <Array as="points">
               <mxPoint x="440" y="670" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="42" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="13" target="14" edge="1">
-          <mxGeometry x="818" y="434.5" width="100" height="100" as="geometry">
-            <mxPoint x="818" y="534.5" as="sourcePoint" />
-            <mxPoint x="918" y="434.5" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1178" y="856" />
-              <mxPoint x="1188" y="916" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="43" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;" parent="1" source="14" target="15" edge="1">
-          <mxGeometry x="610" y="365" width="100" height="100" as="geometry">
-            <mxPoint x="610" y="465" as="sourcePoint" />
-            <mxPoint x="710" y="365" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="47" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;" parent="1" source="19" target="20" edge="1">
-          <mxGeometry x="90" y="375" width="100" height="100" as="geometry">
-            <mxPoint x="90" y="475" as="sourcePoint" />
-            <mxPoint x="190" y="375" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rTIktwFIz4IESTL18eKh-55" value="הגנת מידע" style="rounded=1;fillColor=#17A9E8;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
@@ -119,26 +91,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rTIktwFIz4IESTL18eKh-64" value="50%" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1268" y="989.5" width="30" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="rTIktwFIz4IESTL18eKh-65" value="40%" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="818" y="821.5" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rTIktwFIz4IESTL18eKh-68" value="50%" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1030" y="894.5" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="rTIktwFIz4IESTL18eKh-69" value="50%" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1268" y="899.5" width="30" height="30" as="geometry" />
+        <mxCell id="rTIktwFIz4IESTL18eKh-68" value="20%" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="1125" y="851.75" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rTIktwFIz4IESTL18eKh-70" value="50%" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="770" y="563" width="30" height="30" as="geometry" />
+          <mxGeometry x="990" y="1020" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HRantwCqe_uufsJNFs8z-56" value="50%" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="HRantwCqe_uufsJNFs8z-56" value="20%" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1125" y="754" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HRantwCqe_uufsJNFs8z-58" value="40%" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="818" y="731.5" width="30" height="30" as="geometry" />
+        <mxCell id="HRantwCqe_uufsJNFs8z-58" value="20%" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="818" y="751.5" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HRantwCqe_uufsJNFs8z-59" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.4;exitY=1.075;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="3" target="23" edge="1">
           <mxGeometry x="-231" y="335.5" width="100" height="100" as="geometry">
@@ -150,7 +116,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HRantwCqe_uufsJNFs8z-66" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;dashed=1;strokeColor=#CCCCCC;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.673;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="7" target="13" edge="1">
+        <mxCell id="HRantwCqe_uufsJNFs8z-66" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;dashed=1;strokeColor=#CCCCCC;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.673;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="7" target="13" edge="1">
           <mxGeometry x="32" y="395.5" width="100" height="100" as="geometry">
             <mxPoint x="882" y="595.5" as="sourcePoint" />
             <mxPoint x="1100" y="550" as="targetPoint" />
@@ -164,15 +130,6 @@
             <mxPoint x="800" y="590" as="sourcePoint" />
             <mxPoint x="800" y="590" as="targetPoint" />
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HRantwCqe_uufsJNFs8z-71" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;dashed=1;strokeColor=#CCCCCC;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7" target="19" edge="1">
-          <mxGeometry x="30" y="419.5" width="100" height="100" as="geometry">
-            <mxPoint x="890" y="630" as="sourcePoint" />
-            <mxPoint x="928" y="704" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="928" y="630" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="HRantwCqe_uufsJNFs8z-72" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.695;exitY=1.075;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="3" target="13" edge="1">
@@ -189,7 +146,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="14sCDKMBMeuCPlmQCyw3-50" value="20%" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="186" y="727" width="30" height="30" as="geometry" />
+          <mxGeometry x="578" y="853.75" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="14sCDKMBMeuCPlmQCyw3-53" value="מנהל תחום אנליטיקה&#xa;יואב שור" style="rounded=1;fillColor=#97D077;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="455" y="440" width="200" height="60" as="geometry" />
@@ -211,6 +168,96 @@
               <mxPoint x="948" y="380" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="14sCDKMBMeuCPlmQCyw3-56" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;dashed=1;strokeColor=#CCCCCC;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7" target="23">
+          <mxGeometry x="32" y="395.5" width="100" height="100" as="geometry">
+            <mxPoint x="640" y="495" as="sourcePoint" />
+            <mxPoint x="800" y="745" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="660" y="609" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="14sCDKMBMeuCPlmQCyw3-57" value="  פיתוח קדמי&#xa;אבי שיינהולץ" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="749.25" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="14sCDKMBMeuCPlmQCyw3-58" value="זוהר שינברג" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="848.75" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="14sCDKMBMeuCPlmQCyw3-59" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="14sCDKMBMeuCPlmQCyw3-57" target="14sCDKMBMeuCPlmQCyw3-58">
+          <mxGeometry x="130" y="362" width="100" height="100" as="geometry">
+            <mxPoint x="1293" y="795.75" as="sourcePoint" />
+            <mxPoint x="1273" y="1005.25" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1265" y="849.25" />
+              <mxPoint x="1303" y="835.75" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="14sCDKMBMeuCPlmQCyw3-60" value="50%" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="851.75" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="14sCDKMBMeuCPlmQCyw3-61" value="80%" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="753.25" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="14sCDKMBMeuCPlmQCyw3-62" value="אולגה קרינקין" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="909.75" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="14sCDKMBMeuCPlmQCyw3-63" value="100%" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fillColor=#00CC00;strokeColor=#82b366;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1329" y="914.75" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="14sCDKMBMeuCPlmQCyw3-64" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;dashed=1;strokeColor=#CCCCCC;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7" target="14sCDKMBMeuCPlmQCyw3-57">
+          <mxGeometry x="32" y="395.5" width="100" height="100" as="geometry">
+            <mxPoint x="950" y="520" as="sourcePoint" />
+            <mxPoint x="1100" y="760" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1120" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="14sCDKMBMeuCPlmQCyw3-65" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;dashed=1;strokeColor=#CCCCCC;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="14sCDKMBMeuCPlmQCyw3-53" target="9">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="514" y="560" as="sourcePoint" />
+            <mxPoint x="400" y="620" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="14sCDKMBMeuCPlmQCyw3-70" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9" target="14sCDKMBMeuCPlmQCyw3-66">
+          <mxGeometry x="-231" y="335.5" width="100" height="100" as="geometry">
+            <mxPoint x="672" y="699.25" as="sourcePoint" />
+            <mxPoint x="672" y="1034.25" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="840" />
+              <mxPoint x="431" y="979.25" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="14sCDKMBMeuCPlmQCyw3-71" value="כלל חברי הצוות" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="190" y="850" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="14sCDKMBMeuCPlmQCyw3-72" value="צוותי מידע עסקי&#xa;אופיר קיש" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="190" y="745" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="14sCDKMBMeuCPlmQCyw3-73" value="20%" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="359" y="853.75" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="14sCDKMBMeuCPlmQCyw3-74" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="14sCDKMBMeuCPlmQCyw3-72" target="14sCDKMBMeuCPlmQCyw3-71">
+          <mxGeometry x="-231" y="335.5" width="100" height="100" as="geometry">
+            <mxPoint x="452" y="699.25" as="sourcePoint" />
+            <mxPoint x="452" y="1034.25" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="340" y="840" />
+              <mxPoint x="211" y="979.25" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="14sCDKMBMeuCPlmQCyw3-75" value="30%" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="356" y="749.75" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="14sCDKMBMeuCPlmQCyw3-76" value="10%" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="578" y="749.75" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
